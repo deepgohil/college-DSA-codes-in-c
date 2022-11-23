@@ -159,3 +159,7 @@ printf("%d",size);
    return 0;
 }
 
+
+
+// git config --global user.email "monisha.g@somaiya.edu"
+// git config --global user.name "deepgohil"
