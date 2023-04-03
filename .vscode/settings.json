@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "DFS.C": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "/workspaces/college-DSA-codes-in-c"
 }
